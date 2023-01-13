@@ -1,5 +1,3 @@
-# Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-# Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 import os
 from game import Game, Card, Normal, Debate
 import game
@@ -11,7 +9,7 @@ from discord.ext import commands
 
 # DO NOT SHARE THIS ANYONE
 # DO NOT SHARE THIS WITH ANYONE
-TOKEN = 'OTcxMDg0OTM3Nzk1MDc2MTU2.Gzxhv2.kvMVOULUp1D1rPG9sFI5TO6rKAqhAnr9j5P1Ew'
+TOKEN = '' #INSERT YOUR DISCORD TOKEN HERE
 # DO NOT SHARE THIS WITH ANYONE
 
 intents = discord.Intents.all()
